@@ -1,1 +1,1 @@
-Este repositorio contiene 3 visualizaciones distintas, que sirven como ejemplo de técnicas avanzadas de visualización, recomiendo al lector interesado abrir las visualizaciones en HTML para disfrutar del máximo grado de interactividad.
+Este repositorio contiene 3 visualizaciones distintas, que sirven como ejemplo de técnicas avanzadas de visualización, recomiendo al lector interesado abrir las visualizaciones en HTML cuando sea posible para disfrutar del máximo grado de interactividad.
